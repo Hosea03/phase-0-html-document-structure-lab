@@ -34,7 +34,7 @@ Let's start by adding the bare essentials of an HTML document to the provided
 - Opening and closing `head` tags nested inside the `html` tags
 - Opening and closing `body` tags nested inside the `html` tags
 
-> Note: Recall that best practice indicates that any HTML elements that are
+> Note: c all that best practice indicates that any HTML elements that are
 > nested inside other HTML elements (i.e., between the opening and closing tags
 > of another element) should be indented. It is not *necessary* to use
 > indenting, either for the HTML to render properly or to pass the tests, but
